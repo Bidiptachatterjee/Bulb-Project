@@ -1,0 +1,28 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "🏠 Bedroom",
+      "isOn": false,
+      "brightness": 50
+    },
+    {
+      "id": 2,
+      "name": "🍳 Kitchen",
+      "isOn": false,
+      "brightness": 50
+    },
+    {
+      "id": 3,
+      "name": "🛋️ Hall",
+      "isOn": false,
+      "brightness": 50
+    },
+    {
+      "id": 4,
+      "name": "📚 Study Room",
+      "isOn": false,
+      "brightness": 50
+    }
+  ]
+}
